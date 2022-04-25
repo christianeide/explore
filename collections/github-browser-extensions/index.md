@@ -39,6 +39,7 @@ items:
  - dderevjanik/github-vscode-icons
  - npmhub/npmhub
  - octobox/extension
+ - christianeide/github-sidebar
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
